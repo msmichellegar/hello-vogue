@@ -2,7 +2,7 @@
 
 This is a mini HTML/CSS challenge, taking you to the next level beyond a classic "Hello world!". You'll be styling a basic page that looks like this:
 
-![hello frog](https://cloud.githubusercontent.com/assets/10683087/17455350/f0fe6330-5bf7-11e6-9ac0-0cbaaff13e5d.png)
+![hello vogue](https://cloud.githubusercontent.com/assets/10683087/23728644/da5e447c-0455-11e7-848f-1b037607bcbc.png)
 
 ## Where to start
 
