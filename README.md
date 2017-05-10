@@ -31,7 +31,7 @@ Don't know how to do something? Google it! Programmers would be lost without Goo
 
 Finish early? Here are some extra challenges:
 
-* Link your image to [vogue.com](http://vogue.co.uk), so that the website opens when you click on it
+* Link your image to [vogue.co.uk](http://vogue.co.uk), so that the website opens when you click on it
 * Make the text all caps using the CSS `text-transform` property
 * Put 1px of spacing in between every character of the text using the CSS `letter-spacing` property
 * Change the color of the text when you hover over it
